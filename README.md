@@ -1,2 +1,2 @@
 # orchard-robot-app
-An android user interface to control the orchard robot （）
+An android user interface to control the orchard robot (not fnished)  
