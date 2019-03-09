@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fruit Robot</string>
+    <string name="start">Start</string>
+    <string name="stop">stop</string>
+    <string name="note">Please select the path and then start!</string>
+    <string name="path1">path1</string>
+    <string name="path2">path2</string>
+    <string name="path3">path3</string>
+</resources>
